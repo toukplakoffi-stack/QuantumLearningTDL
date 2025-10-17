@@ -1,0 +1,31 @@
+.
+├── Jour 1
+│   ├── Deutsch-Jozsa_masterclass.ipynb
+│   ├── Grover_masterclass.ipynb
+│   ├── Notebook1_EPR_GHZ_masterclass.ipynb
+│   └── Notebook2_Cours_Exercices_DJ4_Teleportation.ipynb
+├── Jour 1-20251017T082351Z-1-001.zip
+├── Jour 1 new
+│   ├── 0_Intro_IQ.ipynb
+│   ├── 1_Superposition.ipynb
+│   ├── 2_Intrication.ipynb
+│   ├── 3_Cas-pratiques.ipynb
+│   ├── 4_QML.ipynb
+│   └── Quantum-Machine-Learning-QML.pdf
+├── Jour 1 new-20251017T082351Z-1-001.zip
+├── Jour 2
+│   ├── 00_Intro_QI_Qiskit.ipynb
+│   ├── 00_Intro_QI_Qiskit_modifié.ipynb
+│   ├── 01_Superposition_Parallellisme.ipynb
+│   ├── 01_Superposition_Parallellisme_modifié.ipynb
+│   ├── 02_Entanglement.ipynb
+│   ├── 03_Practical_Cases.ipynb
+│   ├── 04_Quantum_ML_QSVM.ipynb
+│   └── QSVM_ba-ba_notebook.ipynb
+├── Jour 2-20251017T082353Z-1-001.zip
+├── QLTDL.txt
+├── requirements.txt
+├── test.ipynb
+└── test.py
+
+4 directories, 25 files
