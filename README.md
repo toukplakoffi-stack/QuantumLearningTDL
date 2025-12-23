@@ -1,4 +1,4 @@
-# Quantum Machine Learning Masterclass 🚀
+# Quantum Machine Learning Masterclass 
 
 This repository gathers my personal notes, exercises, and projects completed during a **Masterclass on Quantum Information and Machine Learning** organized by Togo Data Lab.  
 The goal is to explore and understand how the principles of quantum mechanics intersect with machine learning.
