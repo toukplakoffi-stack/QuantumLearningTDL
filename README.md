@@ -5,7 +5,7 @@ The goal is to explore and understand how the principles of quantum mechanics in
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 Throughout this workshop, we worked on guided exercises and small hands-on projects using **Qiskit** and **Python notebooks**.  
 Each notebook progressively builds on quantum computing fundamentals before diving into quantum-enhanced machine learning models.
